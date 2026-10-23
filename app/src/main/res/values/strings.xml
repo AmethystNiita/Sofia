@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sofia</string>
+    <string name="accessibility_description">Sofia uses this service to automate clearing app caches.</string>
+</resources>
